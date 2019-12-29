@@ -23,3 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 "# flutter_instagram_clone" 
 =======
 >>>>>>> second commit
+# flutter_instagram_clone
